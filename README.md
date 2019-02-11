@@ -21,3 +21,5 @@ Inspired by Telegram and Kate Mobile
 
 ## Technology:
 
+VK API
+React.js
