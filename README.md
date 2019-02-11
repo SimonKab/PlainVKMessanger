@@ -23,3 +23,4 @@ Inspired by Telegram and Kate Mobile
 
 * VK API
 * React.js
+* Material UI
